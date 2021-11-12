@@ -3,7 +3,8 @@
 
 #### Overlap_analysis_genomic_features_collapsing_and_flanks.R 
 Purpose: This script is designed to bootstrap integration breakpoints to determine if they significantly overlap enhancers or FANCD2 binding sites.
-Inputs: 1) Bed files of FANCD2 or enhancer sites. 
+Inputs: 
+         1) Bed files of FANCD2 or enhancer sites. 
          2) A two column file of chromosome lengths
          3) An Excel file containing Supplemental Tables S2 and S3.
 Output: a table containing the information in Tables 1 and 2.
